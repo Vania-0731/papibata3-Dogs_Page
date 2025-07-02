@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import fetchBreeds from "../services/fetchBreeds";
-import fetchImageByBreed from "../services/fetchImageByBreed";
+import fetchImageByBreed from "../services/fetchImageByBreeds";
 
 const useDogStore = () => {
     const [dogs, setDogs] = useState([]);
