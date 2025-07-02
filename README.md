@@ -4,6 +4,14 @@ Este proyecto es una galería interactiva de razas de perros con imágenes aleat
 
 ---
 
+## 🚀 Deploy
+https://papibata3-dogs-page-2y29.vercel.app/
+
+
+## 🚀 Youtube
+https://youtu.be/hssr-wOq5yM
+
+
 ## 🚀 Funcionalidades
 
 ✅ **Listado de Razas:**  
