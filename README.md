@@ -4,12 +4,7 @@ Este proyecto es una galería interactiva de razas de perros con imágenes aleat
 
 ---
 
-## 🚀 Deploy
-https://papibata3-dogs-page-2y29.vercel.app/
 
-
-## 🚀 Youtube
-https://youtu.be/hssr-wOq5yM
 
 
 ## 🚀 Funcionalidades
@@ -80,11 +75,11 @@ Copiar código
 npm run dev
 🌐 Deploy
 Puedes acceder al proyecto desplegado aquí:
-🔗 https://tudominio.vercel.app (Reemplaza por tu link real)
+🔗 [https://tudominio.vercel.app (Reemplaza por tu link real)](https://papibata3-dogs-page-2y29.vercel.app/)
 
 🎥 Video Explicativo
 Puedes ver una demostración funcional aquí:
-🔗 https://youtu.be/tu-video (Reemplaza por tu link real)
+🔗 [https://youtu.be/tu-video (Reemplaza por tu link real)](https://youtu.be/hssr-wOq5yM)
 
 🎯 Conclusión
 Este proyecto demuestra el uso de buenas prácticas en React, organización modular, consumo de APIs externas, manejo de estado global con Zustand y una interfaz amigable.
